@@ -1,24 +1,5 @@
 [
   {
-    "id": "ann-1758280914709",
-    "type": "announce",
-    "badge": "告",
-    "title": "讚讚讚讚",
-    "period": "8888888888888888888888",
-    "summaryButtonText": "很讚",
-    "summary": "88888888888888888888888",
-    "bullets": [
-      "999999999999999999999999"
-    ],
-    "cta": {
-      "text": "",
-      "href": ""
-    },
-    "pinned": false,
-    "startsAt": "2025-09-10",
-    "endsAt": "2025-09-20"
-  },
-  {
     "id": "ann-1757692556594",
     "type": "announce",
     "badge": "告",
